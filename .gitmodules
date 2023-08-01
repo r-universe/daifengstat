@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PottsUtils"]
+	path = PottsUtils
+	url = https://github.com/cran/PottsUtils
 [submodule "agRee"]
 	path = agRee
 	url = https://github.com/cran/agRee
@@ -11,6 +14,3 @@
 [submodule "miscF"]
 	path = miscF
 	url = https://github.com/cran/miscF
-[submodule "PottsUtils"]
-	path = PottsUtils
-	url = https://github.com/cran/PottsUtils
